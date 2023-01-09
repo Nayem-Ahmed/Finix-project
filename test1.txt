@@ -1,4 +1,8 @@
 This is test1
+<<<<<<< HEAD
 My name is Nayem
 Iam 20 years old
 I have recently complited my HSC exam
+=======
+My name is Nahit
+>>>>>>> 9ddb771010dc4eb720f25586a5e7e7a7880738c4
